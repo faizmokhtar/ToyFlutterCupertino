@@ -1,6 +1,6 @@
 # cupertino_store
 
-A new Flutter project.
+Following along the [tutorial from Google Codelabs](https://codelabs.developers.google.com/codelabs/flutter-cupertino/)
 
 ## Getting Started
 
